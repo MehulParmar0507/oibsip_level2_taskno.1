@@ -1,0 +1,49 @@
+.text-center{
+    text-align: center;
+  }
+  
+  #bg-red{
+    background: white;
+    width: 31%;
+    border: 5px solid blue;
+    border-radius: 0px;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+
+  #lastrow{
+    margin-bottom:30px;
+  }
+
+  #colour{
+    background-color: #9a9aff;
+    color: white;
+  }
+
+  #equal{
+    background-color: blue;
+    color: white;
+  }
+
+  #clear{
+    background-color: blue;
+    color: white;
+  }
+
+  #brackets{
+    background-color: #9a9aff;
+    color: white;
+  }
